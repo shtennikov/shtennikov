@@ -1,7 +1,7 @@
 
 <div align="center">
   
-#### Hey! Nice to see you. Welcome to my page!
+### Hey! Nice to see you. Welcome to my page!
 
 ### I'm Stepan, Frontend developer
 
